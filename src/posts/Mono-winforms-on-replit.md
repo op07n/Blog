@@ -27,9 +27,9 @@ At the moment there is no template for mono with winforms. To get that I used [p
 
 [Polygott](https://github.com/replit/polygott) is a lot more flexible than other templates from **repl.it.**
 
-I don't know how to initiate a new [polygott](https://github.com/replit/polygott) template, so I forked of an existing one.
+I don't know how to initiate a new [polygott](https://github.com/replit/polygott) template, so I did a fork of an existing one.
 
-I forked from [https://repl.it/@SPQR/Template-for-compilation-options](https://repl.it/@SPQR/Template-for-compilation-options).
+I did a fork of [https://repl.it/@SPQR/Template-for-compilation-options](https://repl.it/@SPQR/Template-for-compilation-options).
 
 And change the *Makefile* for this:
 
