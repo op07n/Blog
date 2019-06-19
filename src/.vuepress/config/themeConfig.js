@@ -15,8 +15,8 @@ module.exports = {
       buttonText: "Update" 
     }
   },
-  disqus: 'op07n',
-  url: 'https://MY_DOMAIN.COM',
+  disqus: 'https-op07n-github-io',
+  url: 'https://op07n.github.io',
   cdn: '',
   blackWhite: true,
   topNavigation: false,
