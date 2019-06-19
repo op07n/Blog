@@ -16,7 +16,7 @@ module.exports = {
     }
   },
   disqus: 'op07n',
-  url: `https-op07n-github-io`,
+  url: 'https://MY_DOMAIN.COM',
   cdn: '',
   blackWhite: true,
   topNavigation: false,
