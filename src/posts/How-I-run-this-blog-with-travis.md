@@ -21,7 +21,7 @@ meta:                                 # If you have cover image
 
 ---
 
-I forked this blog from [ktquez/vuepress-theme-ktquez-starter](https://github.com/ktquez/vuepress-theme-ktquez-starter) . I tweaked it a little bit to build it with [https://travis-ci.org](https://travis-ci.org) for free.
+I did a fork of this blog from [ktquez/vuepress-theme-ktquez-starter](https://github.com/ktquez/vuepress-theme-ktquez-starter) . I tweaked it a little bit to build it with [https://travis-ci.org](https://travis-ci.org) for free.
 
 Here is what I did:
 
@@ -110,7 +110,7 @@ I maid a few changes in *package.json:*
 }
 ```
 
- I copied *yarn.lock* from other site but I don't know if I really needed.
+ I copied *yarn.lock* from other site but I don't know if I really need it.
 
 In my travis-ci account I wrote the **GH_TOKEN** variable with the token generated in my github account.
 
